@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parbhat Kapila</h1>
 <h3 align="center">Machine Learning Enthusiast | Passionate About Driving Change & Creating Impact</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapila8&label=Profile%20views&color=0e75b6&style=flat" alt="kapila8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parbhat.kapila&label=Profile%20views&color=0e75b6&style=flat" alt="Parbhat.kapila" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapila8" alt="kapila8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Parbhat.kapila" alt="Parbhat.kapila" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
